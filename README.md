@@ -12,8 +12,8 @@ If you are a new employee at FabLab Barcelona, please do the following:
 
 ### How to edit a file on Github
 
-1. Select the file by clicking it in the repository
-2. Click the **pencil** (edit) button
+1. Make sure you have selected the correct file by clicking it in the repository
+2. Click the **pencil** (edit) button on the right
 
    ![edit button](2018-12-15_17-37-37.png "Logo Title Text 1")
 3. Make your changes
