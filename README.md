@@ -21,6 +21,6 @@ If you are a new employee at FabLab Barcelona, please do the following:
 
 
 ### Other links
-http://rules.fablabbcn.org  
 https://github.com/fablabbcn  
 https://fablabbcn.org/about_us
+http://rules.fablabbcn.org  
