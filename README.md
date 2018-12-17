@@ -14,11 +14,11 @@ If you like emojis, here is all the emojis that Github supports: https://gist.gi
 ### How to edit a file on Github
 
 1. Make sure you have selected the correct file by clicking it in the repository
-2. Click the **pencil** (edit) button on the right
+2. Click the **pencil** (edit) button on the right :pencil:
 
    ![edit button](2018-12-15_17-37-37.png "Logo Title Text 1")
-3. Make your changes
-4. Click the green **Commit Changes**
+3. Make your changes 
+4. Click the green **Commit Changes** button :heavy_check_mark:
 
 
 ### Other links
