@@ -2,6 +2,7 @@
 
 
 If you are a new employee at FabLab Barcelona, please do the following:
+
 1. Get a free [Github account](https://github.com/join). It only takes a minute! :watch:
    * Please **add your profile picture** https://github.com/settings/profile
 1. Ask someone who has admin access to add your **username** to the fablabbcn organization *team* called **Employees** at https://github.com/orgs/fablabbcn/teams/employees This will give you write access to some repositories, like this one and our main website.
@@ -24,6 +25,7 @@ If you like emojis, here is all the emojis that Github supports: https://gist.gi
 
 
 ### Other links
+Do you want to [Learn Markdown?](https://www.markdowntutorial.com/lesson/1/)  
 https://github.com/fablabbcn  
 https://fablabbcn.org/about_us
 http://rules.fablabbcn.org  
