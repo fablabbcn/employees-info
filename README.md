@@ -16,7 +16,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
 
 ### Bonus :octocat:
 * If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
-* Do you want to [Learn Markdown?](https://www.markdowntutorial.com/lesson/1/)  
+* [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using markdown in our projects!
 
 ### How to edit a file on Github
 
