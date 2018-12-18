@@ -10,7 +10,9 @@ If you are a new employee at FabLab Barcelona, please do the following:
 1. Add your details in the **fablabbcn-web** repo, this file: https://github.com/fablabbcn/fablabbcn-web/blob/gh-pages/_data/employees.yml 
    * [How to edit files on Github](#how-to-edit-a-file-on-github)
    * Now your information should be available on our About page: https://fablabbcn.org/about_us 
-1. Also join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: This will help people connect your name to your face :alien:
+1. Also join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: 
+   * In Slack, click your **username** (top left), and **Profile & Account**
+   * This will help people connect your name to your face :alien:
 
 ### Bonus :octocat:
 * If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
