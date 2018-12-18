@@ -27,5 +27,5 @@ If you like emojis, here is all the emojis that Github supports: https://gist.gi
 ### Other links
 Do you want to [Learn Markdown?](https://www.markdowntutorial.com/lesson/1/)  
 https://github.com/fablabbcn  
-https://fablabbcn.org/about_us
+https://fablabbcn.org/about_us  
 http://rules.fablabbcn.org  
