@@ -28,6 +28,13 @@ If you are a new employee at FabLab Barcelona, please do the following:
 4. Click the green **Commit Changes** button :heavy_check_mark:
 
 
+### Working with our main page fablabbcn.org
+* Our main page is 100% open source with all the materials on [Github](https://github.com/fablabbcn/fablabbcn-web)
+* We host our page on Github Pages 
+   * Every git commit to the repository will automatically go to the live page (within a minute)
+* Github Pages uses Jekyll
+   * Jekyll has [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) - Watch them to learn more!
+
 ### Other links
 https://github.com/fablabbcn  
 https://fablabbcn.org/about_us  
