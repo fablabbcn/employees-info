@@ -28,12 +28,13 @@ If you are a new employee at FabLab Barcelona, please do the following:
 4. Click the green **Commit Changes** button :heavy_check_mark:
 
 
-### Working with our main page fablabbcn.org
-* Our main page is 100% open source with all the materials on [Github](https://github.com/fablabbcn/fablabbcn-web)
+### Working with our main website fablabbcn.org
+* Our [main website][https://fablabbcn.org] is 100% open with all it's content on [Github](https://github.com/fablabbcn/fablabbcn-web)
 * We host our page on Github Pages 
    * Every git commit to the repository will automatically go to the live page (within a minute)
 * Github Pages uses Jekyll
-   * Jekyll has [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) - Watch them to learn more!
+   * Jekyll has [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) - Watch them to learn the basics!
+* We are also trying out Forestry.io and CloudCannon to handle (abstract) adding content to the website
 
 ### Other links
 https://github.com/fablabbcn  
