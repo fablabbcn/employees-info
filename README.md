@@ -5,7 +5,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
 
 1. Get a free [Github account](https://github.com/join). It only takes a minute! :watch:
    * Please **add your profile picture** https://github.com/settings/profile
-1. Ask someone who has admin access to add your **username** to the fablabbcn organization *team* called **Employees** at https://github.com/orgs/fablabbcn/teams/employees 
+1. [Create an issue](https://github.com/fablabbcn/employees-info/issues/new) asking someone who has admin access to add your **username** to the fablabbcn organization *team* called **Employees** at https://github.com/orgs/fablabbcn/teams/employees 
    * This will give you write access to some repositories, like this one and our main website.
 1. Add your details in the [fablabbcn-web](https://github.com/fablabbcn/fablabbcn-web) repo
    * Go to the `_data` folder and open the `/employees.yml`file
