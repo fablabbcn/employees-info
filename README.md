@@ -30,7 +30,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
 
 
 ### Working with our main website fablabbcn.org
-* Our [main website][https://fablabbcn.org] is 100% open with all it's content on [Github](https://github.com/fablabbcn/fablabbcn-web)
+* Our [main website](https://fablabbcn.org) is 100% open with all it's content on [Github](https://github.com/fablabbcn/fablabbcn-web)
 * We host our page on Github Pages 
    * Every git commit to the repository will automatically go to the live page (within a minute)
 * Github Pages uses Jekyll
