@@ -28,6 +28,7 @@ Github is a a place where we **store data**, mainly text based (code and documen
 Github uses a technology called **git**, a **version control** technology to help keep history of changes to text.
 
 Git **records** every **change** you make to a text, allowing you do **undo everything**, and see who changed what line at what time and why.
+
 Git uses the term **commit** for changes. It is similar to using the **Save button** in other programs.
 
 
