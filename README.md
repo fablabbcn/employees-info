@@ -16,16 +16,16 @@ If you are a new employee at FabLab Barcelona, please do the following:
    * This will help people connect your name to your face :alien:
 
 ### Bonus :octocat:
-- [ ] [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using markdown in our projects!
-- [ ] If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
+- [ ] [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using Markdown in our projects!
+- [ ] If you like emojis, here are all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
 
 
 ## FAQ
 
 ### What is Github?
-Github is a a place where we **store data**, mainly text (code and documentation) but we can also store images and videos.
-Github should not be confused with **git** which is a **version control** technology to help keep history of changes to text.
-It **records** every change you make to a text, allowing you do **undo everything**, and see who changed what line at what time and why.
+Github is a a place where we **store data**, mainly text based (code and documentation). It can also store images and videos.
+Github uses a technology called **git** which is a **version control** technology to help keep history of changes to text.
+Git **records** every change you make to a text, allowing you do **undo everything**, and see who changed what line at what time and why.
 
 
 ### Why should we add our users here?
