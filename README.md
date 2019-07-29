@@ -20,19 +20,25 @@ If you are a new employee at FabLab Barcelona, please do the following:
 - [ ] If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
 
 
-## Why?
+## FAQ
 
+### What is Github?
+Github is a a place where we **store data**, mainly text (code and documentation) but we can also store images and videos.
+Github should not be confused with **git** which is a **version control** technology to help keep history of changes to text.
+It **records** every change you make to a text, allowing you do **undo everything**, and see who changed what line at what time and why.
+
+
+### Why should we add our users here?
 By having all our users on Github, we can manage them into multiple Teams.
 
-Each Team can have access to repositories, and be given login to **websites**. 
+Each Team can have access to repositories, and be allowed to **login to websites**. 
 
 **Example:** All members of the team called **Employees** can log into our [Grafana monitoring](https://grafana.fab.city) service by clicking the 'Sign in with Github' button. (No need to create additional login / password.)
 
-We could use this on more services to make user management easier.
+We could use this for more services to make user management easier.
 
-## How to:
 
-### How to edit a file on Github
+### How to edit a file on Github?
 
 1. Make sure you have selected the correct file by clicking it in the repository
 2. Click the **pencil** (edit) button on the right :pencil:
@@ -42,15 +48,15 @@ We could use this on more services to make user management easier.
 4. Click the green **Commit Changes** button :heavy_check_mark:
 
 
-### Make changes to our main website fablabbcn.org
+### How do I make changes to our main website fablabbcn.org
 * Our [main website](https://fablabbcn.org) is 100% open with all it's content on [Github](https://github.com/fablabbcn/fablabbcn-web)
 * We host our page on Github Pages 
    * Every git commit to the repository will automatically go to the live page (within a minute)
 * Github Pages use a Static Website generator called Jekyll
    * Jekyll has [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) - Watch them to learn the basics!
-* We are also trying out Forestry.io and CloudCannon to handle (abstract) adding content to the website
+* We are also trying out [Forestry.io](https://forestry.io/) and CloudCannon to handle (abstract) adding content to the website
 
-### Other links
+## Other links
 https://github.com/fablabbcn  
 https://fablabbcn.org/about_us  
 http://rules.fablabbcn.org  
