@@ -11,13 +11,16 @@ If you are a new employee at FabLab Barcelona, please do the following:
    * Go to the `_data` folder and open the `/employees.yml`file
    * [How to edit files on Github](#how-to-edit-a-file-on-github)
    * Now your information should be available on our About page: https://fablabbcn.org/about_us 
-1. Also join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: 
+1. Join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: 
    * In Slack, click your **username** (top left), and **Profile & Account**
    * This will help people connect your name to your face :alien:
 
 ### Bonus :octocat:
 * If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
 * [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using markdown in our projects!
+
+
+## How to:
 
 ### How to edit a file on Github
 
@@ -29,11 +32,11 @@ If you are a new employee at FabLab Barcelona, please do the following:
 4. Click the green **Commit Changes** button :heavy_check_mark:
 
 
-### Working with our main website fablabbcn.org
+### Make changes to our main website fablabbcn.org
 * Our [main website](https://fablabbcn.org) is 100% open with all it's content on [Github](https://github.com/fablabbcn/fablabbcn-web)
 * We host our page on Github Pages 
    * Every git commit to the repository will automatically go to the live page (within a minute)
-* Github Pages uses Jekyll
+* Github Pages use a Static Website generator called Jekyll
    * Jekyll has [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) - Watch them to learn the basics!
 * We are also trying out Forestry.io and CloudCannon to handle (abstract) adding content to the website
 
