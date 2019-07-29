@@ -9,7 +9,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
    * This will give you **write access** to some repositories, like this one and our main website.
 1. Add your details in the [fablabbcn-web](https://github.com/fablabbcn/fablabbcn-web) repo
    * Go to the `_data` folder and open the `/employees.yml`file
-   * [How to edit files on Github](#how-to-edit-a-file-on-github)
+   * [How to edit files on Github](#how-to-edit-files-on-github)
    * Now your information should be available on our About page: https://fablabbcn.org/about_us 
 1. Join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: 
    * In Slack, click your **username** (top left), and **Profile & Account**
