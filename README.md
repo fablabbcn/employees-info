@@ -20,7 +20,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
 - [ ] If you like emojis, here are all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
 
 
-## FAQ
+## HELP
 
 ### What is Github?
 Github is a a place where we **store data**, mainly text based (code and documentation). It can also store images and videos.
