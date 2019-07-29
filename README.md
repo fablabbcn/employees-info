@@ -16,9 +16,13 @@ If you are a new employee at FabLab Barcelona, please do the following:
    * This will help people connect your name to your face :alien:
 
 ### Bonus :octocat:
-* If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
-* [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using markdown in our projects!
+- [ ] [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using markdown in our projects!
+- [ ] If you like emojis, here is all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
 
+By having all our users on Github, we can manage them into multiple Teams.
+Teams can then have access to repositories, or even websites. 
+
+**Example:** All members of the team called **Employees** can log into our [Grafana monitoring](https://grafana.fab.city) service by clicking the 'Sign in with Github' button. (No need to create additional login / password.)
 
 ## How to:
 
