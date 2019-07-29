@@ -24,7 +24,9 @@ If you are a new employee at FabLab Barcelona, please do the following:
 
 ### What is Github?
 Github is a a place where we **store data**, mainly text based (code and documentation). It can also store images and videos.
-Github uses a technology called **git** which is a **version control** technology to help keep history of changes to text.
+
+Github uses a technology called **git**, a **version control** technology to help keep history of changes to text.
+
 Git **records** every change you make to a text, allowing you do **undo everything**, and see who changed what line at what time and why.
 
 
