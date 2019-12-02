@@ -24,7 +24,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
 ## HELP
 
 ### What is Github?
-Github is a a place where we **store data**, mainly text based (code and documentation). It can also store images and videos.
+Github is a a place where we **store data**, mainly text based (code and documentation). It _can_ also store images and videos but it is not optimized for that.
 
 Github uses a technology called **git**, a **version control** technology to help keep history of changes to text.
 
@@ -34,7 +34,7 @@ Git uses the term **commit** for changes. It is similar to using the **Save butt
 
 
 ### Why should we add our users here?
-By having all our users on Github, we can manage them into multiple Teams.
+By having all our users on Github, we can manage them into multiple **Teams**.
 
 Each Team can have access to repositories, and be allowed to **login to websites**. 
 
