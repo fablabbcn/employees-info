@@ -7,14 +7,14 @@ If you are a new employee at FabLab Barcelona, please do the following:
 1. Please **add your profile picture** https://github.com/settings/profile
 1. [Create an issue](https://github.com/fablabbcn/employees-info/issues/new) asking someone who has admin access to add your **username** to the fablabbcn organization *team* called **Employees** at https://github.com/orgs/fablabbcn/teams/employees 
    * This will give you **write access** to some repositories, like this one and our main website.
-1. Join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: 
-   * In Slack, click your **username** (top left), and **Profile & Account**
-   * This will help people connect your name to your face :alien:
-   * Write a short line on the #general channel, introducing yourself and what you do!
 1. Add your details in the [fablabbcn-web](https://github.com/fablabbcn/fablabbcn-web) repo
    * Go to the `_data` folder and open the `/employees.yml`file
    * [How to edit files on Github](#how-to-edit-files-on-github)
    * Now your information should be available on our About page: https://fablabbcn.org/about_us 
+1. Join our [Slack](https://fablabbcn.slack.com/) channel, and again, **please add your profile picture** :cop: 
+   * In Slack, click your **username** (top left), and **Profile & Account**
+   * This will help people connect your name to your face :alien:
+   * Write a short line on the `#general` channel, introducing yourself and what you do!   
 
 ### Bonus :octocat:
 - [ ] [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using Markdown in our projects!
