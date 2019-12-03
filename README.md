@@ -57,7 +57,7 @@ We could use this for more services to make user management easier.
 ### How do I make changes to our main website fablabbcn.org
 * Our [main website](https://fablabbcn.org) is 100% open with all it's content on [Github](https://github.com/fablabbcn/fablabbcn-web)
 * We host our page on Github Pages 
-   * Every git commit to the repository will automatically go to the live page (within a minute)
+   * Every `git` commit to the repository will automatically go to the live page (within a minute)
 * Github Pages use a Static Website generator called Jekyll
    * Jekyll has [Video Walkthroughs](https://jekyllrb.com/tutorials/video-walkthroughs/) - Watch them to learn the basics!
 * We are also trying out [Forestry.io](https://forestry.io/) and CloudCannon to handle (abstract) adding content to the website
