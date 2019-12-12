@@ -8,6 +8,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
 1. [Create an issue](https://github.com/fablabbcn/employees-info/issues/new) asking someone who has admin access to add your **username** to the fablabbcn organization *team* called **Employees** at https://github.com/orgs/fablabbcn/teams/employees 
    * This will give you **write access** to some repositories, like this one and our main website.
    * This also allows you to log on to [some](https://grafana.fab.city/login) websites via Github.
+   * To upload your photo, go to the folder https://github.com/fablabbcn/fablabbcn-web/tree/master/img/team and call it by your name.  
 1. Add your details in the [fablabbcn-web](https://github.com/fablabbcn/fablabbcn-web) repo
    * Go to the `_data` folder and open the `/employees.yml`file
    * [How to edit files on Github](#how-to-edit-files-on-github)
@@ -16,7 +17,7 @@ If you are a new employee at FabLab Barcelona, please do the following:
    * In Slack, click your **username** (top left), and **Profile & Account**
    * This will help people connect your name to your face :alien:
    * Write a short line on the `#general` channel, introducing yourself and what you do!   
-   * To upload your photo, go to the folder https://github.com/fablabbcn/fablabbcn-web/tree/master/img/team and call it by your name.  
+
 ### Bonus :octocat:
 - [ ] [Learn Markdown](https://www.markdowntutorial.com/lesson/1/) - We are increasingly using Markdown in our projects!
 - [ ] If you like emojis, here are all the emojis that Github supports: https://gist.github.com/rxaviers/7360908 :horse: :trollface:
